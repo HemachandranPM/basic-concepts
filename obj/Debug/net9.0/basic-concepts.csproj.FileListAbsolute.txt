@@ -1,0 +1,15 @@
+E:\basic-concepts\bin\Debug\net9.0\basic-concepts.exe
+E:\basic-concepts\bin\Debug\net9.0\basic-concepts.deps.json
+E:\basic-concepts\bin\Debug\net9.0\basic-concepts.runtimeconfig.json
+E:\basic-concepts\bin\Debug\net9.0\basic-concepts.dll
+E:\basic-concepts\bin\Debug\net9.0\basic-concepts.pdb
+E:\basic-concepts\obj\Debug\net9.0\basic-concepts.GeneratedMSBuildEditorConfig.editorconfig
+E:\basic-concepts\obj\Debug\net9.0\basic-concepts.AssemblyInfoInputs.cache
+E:\basic-concepts\obj\Debug\net9.0\basic-concepts.AssemblyInfo.cs
+E:\basic-concepts\obj\Debug\net9.0\basic-concepts.csproj.CoreCompileInputs.cache
+E:\basic-concepts\obj\Debug\net9.0\basic-concepts.dll
+E:\basic-concepts\obj\Debug\net9.0\refint\basic-concepts.dll
+E:\basic-concepts\obj\Debug\net9.0\basic-concepts.pdb
+E:\basic-concepts\obj\Debug\net9.0\basic-concepts.genruntimeconfig.cache
+E:\basic-concepts\obj\Debug\net9.0\ref\basic-concepts.dll
+E:\basic-concepts\obj\Debug\net9.0\basic-concepts.sourcelink.json
